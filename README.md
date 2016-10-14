@@ -1,0 +1,2 @@
+# SumofNaturalNumbers
+C programming
